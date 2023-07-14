@@ -1,0 +1,25 @@
+.jumbotron {
+    padding-top: 6rem ;
+    background-color: #cd3a4465;
+}
+
+/* body {
+    min-height: 4000px;
+} */
+#projects {
+    background-color: #cd3a4465;
+}
+section {
+    padding-top: 5rem;
+}
+
+
+.gallery-img {
+    width: 100%;
+
+}
+
+/* hapus paddig di dalam gellery * maksudnya apa pun yang ada di dalam nya persis stellah akan di hapus padding nya */
+#gallery .row > * {
+ padding: 0;
+}
